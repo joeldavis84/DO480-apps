@@ -7,7 +7,6 @@ metadata:
   name: frontend
   namespace: mysql
 spec:
-  host: todo.apps.spokecluster2.acm.joel
   path: "/todo"
   to:
     kind: Service
